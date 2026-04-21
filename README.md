@@ -1,4 +1,3 @@
-Skip to content
 
 SURAJ KHAN  
 💻 Java Developer | Software Engineer  
