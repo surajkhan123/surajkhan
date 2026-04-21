@@ -101,7 +101,7 @@ English | Hindi | Bengali
 
 📊 GitHub Stats
 
-#(You can add GitHub stats widgets here later)
+<!-- (You can add GitHub stats widgets here later) -->
 
 ---
 
